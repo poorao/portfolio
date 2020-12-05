@@ -11,7 +11,7 @@
     <meta content="http://poojarao.in/" property="og:url">
 
     <link rel="dns-prefetch" href="https://fonts.gstatic.com/">
-    <link rel="preload" href="/assets/pooja_rao.jpg" as="image">
+    <link rel="preload" href="/assets/pooja_rao.png" as="image">
     <link rel="preload" href="/assets/footer-bg.jpg" as="image">
 
     <title>Pooja Rao</title>
@@ -256,6 +256,10 @@
             border-bottom: solid 3px #ddd;
         }
 
+        .publication {
+            width: 100%;
+        }
+
         .publication li {
             margin: 15px 0;
             word-spacing: 2px;
@@ -273,6 +277,10 @@
 
         .publication li span {
             font-weight: 900;
+        }
+
+        .cryptedmail:after {
+            content: attr(data-name) "@" attr(data-domain) "." attr(data-tld); 
         }
 
         @media only screen and (max-width:768px) {
@@ -319,7 +327,7 @@
     <div id="content">
         <div id="content-wrapper">
             <div class="profile-picture">
-                <img src="/assets/pooja_rao.jpg" alt="Pooja Rao" />
+                <img src="/assets/pooja_rao.png" alt="Pooja Rao" />
             </div>
             <h1 class="greet">Pooja Rao</h1>
             <div class="intro">PhD Student at University of Lausanne</div>
@@ -409,12 +417,16 @@
                     workshop co-located with ECAI 2020 </li>
 
             </ul>
-
             <h2 class="title"><span>Contact</span></h2>
             <ul class="publication">
-                <li>My email address is pooja.rao@iiitb.org </li>
-                <li>You can also reach me on Twitter @poojaraosb or on <a target="_blank"
+                <li>Email: <a href="#" class="cryptedmail"
+                    data-name="poojarao"
+                    data-domain="outlook.sb"
+                    data-tld="com"
+                    onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld; return false;"></a></li>
+                <li>You can also reach me on Twitter <a target="blank" href="https://twitter.com/poojaraosb">@poojaraosb</a> or on <a target="_blank"
                         href="https://www.linkedin.com/in/pooja-rao/">LinkedIn</a></li>
+            </ul>
         </div>
     </div>
 </body>
