@@ -320,6 +320,22 @@
         b {
             font-weight: bold;
         }
+
+        .contact {
+            width: 100%;
+            display: flex;
+        }
+
+        .contact li {
+            margin: 0 10px 0 0;
+            border: solid 1px #000;
+        }
+
+        .contact a {
+            border-bottom: none;
+            padding: 10px;
+            display: inline-block;
+        }
     </style>
 </head>
 
@@ -418,14 +434,15 @@
 
             </ul>
             <h2 class="title"><span>Contact</span></h2>
-            <ul class="publication">
-                <li>Email: <a href="#" class="cryptedmail"
+            <ul class="contact">
+                <li><a href="#" class="cryptedmail"
                     data-name="poojarao.sb"
                     data-domain="outlook"
                     data-tld="com"
                     onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld; return false;"></a></li>
-                <li>You can also reach me on Twitter <a target="blank" href="https://twitter.com/poojaraosb">@poojaraosb</a> or on <a target="_blank"
-                        href="https://www.linkedin.com/in/pooja-rao/">LinkedIn</a></li>
+                <li><a target="blank" href="https://twitter.com/poojaraosb">Twitter</a></li>
+                <li><a target="_blank"
+                    href="https://www.linkedin.com/in/pooja-rao/">LinkedIn</a></li>
             </ul>
         </div>
     </div>
