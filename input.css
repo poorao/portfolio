@@ -31,6 +31,10 @@ article li, article a, article p {
     color: #282927;
 }
 
+.headings {
+    background-color: #fff7f0;
+}
+
 /* .container {
     position: relative;
     margin: 3rem;
