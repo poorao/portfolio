@@ -1,0 +1,5 @@
+
+Work towards adding automated elements to asynchronous interview systems by solving the problems of interview follow-up question generation and automatic assessment of candidates using various Machine Learning techniques like text generation, text classification and transfer learning techniques for NLP.
+
+*   **Automatic Follow-up Question Generation** – enable a virtual interviewer to generate a follow-up question given a predetermined question and a candidate response using LSTM-based and Transformer models. ([View demo](https://www.youtube.com/watch?v=gdPxdi82nV0))
+*   **Automatic Assessment of Communication Skill** – Supervised predictive models to assess the written communication skill scores of interview candidates in various non-conventional interview settings. (View [thesis](https://ms-by-research-thesis.s3.amazonaws.com/thesis.pdf) and [defense slides](https://ms-by-research-thesis.s3.amazonaws.com/ThesisDefence_release.pdf))

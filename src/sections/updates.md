@@ -1,0 +1,24 @@
+
+- **04/2025:** Presented our CHI '25 paper "RiskRAG: A Data-Driven Solution for Improved AI Model Risk Reporting" at Yokohama, Japan.
+- **03/2025:** Received the SIGCHI Gary Marsden Travel award to travel to Yokohama, Japan for CHI 2025.
+- **01/2025:** My work at Nokia Bell Labs got accepted to CHI 2025!
+- **06/2024 to 08/2024:** Summer internship at the Responsible AI team, Nokia Bell Labs, Cambridge.
+- **06/2024:** Our journal paper got accepted to IJHCS!
+- **04/2024:** Successfully conducted the workshop “Multimodal Machine Learning for Human Behaviour Understanding” at AMLD 2024. You can find all the resources in this [repo](https://github.com/Laxminarayen/AMLD-24)!
+- **12/2023:** Our workshop proposal “Multimodal Machine Learning for Human Behaviour Understanding”, joint work with Laxminarayen N. V., got accepted at [AMLD 2024](https://appliedmldays.org/events/amld-epfl-2024)
+- **07/2023:** Invited talk on our CHI 2023 paper “Changes in Research Ethics, Openness, and Transparency in Empirical Studies between CHI 2017 and CHI 2022” at the Nokia Bell Labs, Cambridge. You can find the talk [here](http.social-dynamics.net/seminars.html).
+- **04/2023:** Our paper “Changes in Research Ethics, Openness, and Transparency in Empirical Studies between CHI 2017 and CHI 2022” has received the [Best Paper](https://programs.sigchi.org/chi/2023/awards/best-papers) recognition at ACM CHI 2023
+- **11/2022:** Volunteered for [ICMI 2022](https://icmi.acm.org/2022/) that happened in Bangalore, India.
+- **08/2022:** Our paper "Understanding Interviewees' Perceptions and Behaviour to Verbally and Non-verbally Expressive Virtual Interviewing Agents" accepted at workshop [GENEA](https://genea-workshop.github.io/2022/workshop/) organized in conjunction with ICMI 2022
+- **05/2022:** Presented our opinion paper "Explainability in Automated Training and Feedback Systems" ACM CHI Workshop [HCXAI 2022](https://hcxai.jimdosite.com/). You can find the talk [here](https://youtu.be/E62dlroRqhw?t=464).
+- **04/2022:** Our opinion paper "Explainability in Automated Training and Feedback Systems" accepted at ACM CHI Workshop Human-Centered Perspectives in Explainable AI [HCXAI 2022](https://hcxai.jimdosite.com/)
+- **03/2022:** Volunteered for [AMLD 2022](https://appliedmldays.org/events/amld-epfl-2022) that happened in Lausanne, Switzerland.
+- **04/2021:** Successfully conducted the workshop “Virtual Interviewer: Build your own interviewing agent” at AMLD 2021. You can find all the resources in this [repo](https://github.com/poorao/virtual-interviewer-AMLD2021)!
+- **02/2021:** Our paper "Improving Asynchronous Interview Interaction with Follow-up Question Generation" has been accepted for publication in the International Journal of Interactive Multimedia and Artificial Intelligence (Special Issue Extended Papers ECAI)
+- **02/2021:** Our workshop “Virtual Interviewer: Build your own interviewing agent” is scheduled on April 27th from 14:00 to 17:00. Find more details [here](https://appliedmldays.org/events/amld-epfl-2021/workshops/virtual-interviewer-build-your-own-interviewing-agent)!
+- **12/2020:** Our workshop proposal “Virtual Interviewer: Build your own interviewing agent” accepted at [AMLD 2021](https://appliedmldays.org/events/amld-epfl-2021)
+- **12/2020:** Conducted a hands-on session "[Procedure Detection](https://github.com/poorao/procedure-detection-hands-on)" for R V College of Engineering
+- **11/2020:** Our paper "Towards Generating Topic-driven and Affective Responses to assist Mental Wellness" accepted at [CARE 2020](http://phuselab.di.unimi.it/CARE2020/) organized in conjunction with ICPR2020
+- **09/2020:** Joined University of Lausanne as a PhD student
+- **09/2020:** Presented our paper "Incorporating Automatic Follow-up Question Generation for Asynchronous Interviews" IntelLang 2020 (slides)
+- **06/2020:** Our paper "Incorporating Automatic Follow-up Question Generation for Asynchronous Interviews" accepted at [IntelLanG](https://intellang.github.io/) workshop co-located with ECAI 2020

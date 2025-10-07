@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title | default: "Pooja Rao" }} - Researcher Portfolio</title>
+
+    <meta name="description" content="{{ description | default: 'PhD Researcher at the intersection of Human-Computer Interaction and Artificial Intelligence.' }}">
+
+    <!-- Preconnect to Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Stylesheets -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="/css/styles.css" rel="stylesheet">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/assets/pooja-rao.jpg">
+    <link rel="apple-touch-icon" href="/assets/pooja-rao.jpg">
+</head>
+
+<body>
+    <main>
+        <div class="container">
+            <div class="layout-grid">
+                {{ content }}
+            </div>
+        </div>
+    </main>
+</body>
+</html>
