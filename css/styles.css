@@ -54,11 +54,11 @@ table {
 /* CSS Variables for theming */
 :root {
     --primary-color: #4F46E5;
-    --background-color: #F9FAFB;
-    --card-background-color: #FFFFFF;
+    --background-color: #fff2e6;
+    --card-background-color: #fff2e6;
     --text-color: #111827;
     --subtext-color: #6B7280;
-    --border-color: #E5E7EB;
+    --border-color: #000;
     --card-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
     --border-radius: 0.5rem;
 }
@@ -79,14 +79,15 @@ html {
 body {
     background-color: var(--background-color);
     color: var(--text-color);
-    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
     transition: background-color 0.3s, color 0.3s;
     margin: 0;
 }
 
 /* Main container */
 .container {
-    max-width: 90rem; /* max-w-7xl is 80rem, but let's give it a bit more space */
+    max-width: 75rem; /* max-w-7xl is 80rem, but let's give it a bit more space */
     margin: 0 auto;
     padding: 3rem 1rem;
 }
@@ -204,14 +205,10 @@ body {
     display: block;
     padding: 0.5rem 0.75rem;
     border-radius: var(--border-radius);
-    color: var(--subtext-color);
+    color: var(--text-color);
     text-decoration: none;
+    font-weight: 500;
     transition: background-color 0.2s, color 0.2s;
-}
-
-.sidebar-nav a:hover {
-    background-color: var(--border-color);
-    color: var(--primary-color);
 }
 
 @media (max-width: 1023px) {
@@ -224,7 +221,7 @@ body {
 .main-content {
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1rem;
 }
 
 @media (min-width: 1024px) {
@@ -234,7 +231,7 @@ body {
 }
 
 .main-content section {
-    scroll-margin-top: 6rem;
+    scroll-margin-top: 0.5rem;
 }
 
 .social-links ul {
@@ -274,13 +271,15 @@ body {
 .card li {
     margin-bottom: 1rem;
     list-style: disc;
-    line-height: 1.25rem;
+    line-height: 1.5rem;
 }
 
 .card strong {
     color: var(--text-color);
-    font-weight: 600;
+    font-weight: 500;
 }
+
+.card p { line-height: 1.75;}
 
 .card ol, .card ul {
     padding-left: 1.25rem;
@@ -292,15 +291,17 @@ body {
     color: var(--primary-color);
 }
 
-a {
-    color: var(--primary-color);
+.card a {
+    color: var(--text-color);
     text-decoration: none;
+    border-bottom: dotted 1px #424242;
     transition: text-decoration 0.2s;
+    font-weight: 300;
 }
 
 /* Typography for 'About' section */
 .prose {
-    color: var(--subtext-color);
+    color: var(--text-color);
     max-width: none;
     font-size: 1rem;
     line-height: 1.75;

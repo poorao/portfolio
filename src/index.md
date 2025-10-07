@@ -29,7 +29,7 @@ layout: layout.liquid
     <section id="about">
         <div class="card">
             <h2 class="card-title">
-                About
+                Hello!
             </h2>
             <div class="prose">
                 {% include "sections/about.md" | markdownify %}
