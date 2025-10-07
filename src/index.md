@@ -3,7 +3,7 @@ layout: layout.liquid
 ---
 <aside class="sidebar">
     <div class="sidebar-header">
-        <img alt="Pooja Rao" class="profile-image" src="/assets/pooja-rao.jpg"/>
+        <img alt="Pooja Rao" class="profile-image" src="assets/pooja-rao.jpg"/>
         <h1 class="profile-name">Pooja Rao</h1>
         <p class="profile-title">PhD Researcher</p>
         <div class="social-links">
