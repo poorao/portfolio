@@ -1,8 +1,6 @@
 
 I am a PhD researcher co-advised by [Prof. Mauro Cherubini](http://hec.unil.ch/people/mcherubini?dyn_lang=fr) from [UNIL](https://www.unil.ch/index.html) and [Prof. Dinesh Babu Jayagopi](https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi) from [IIIT Bangalore](https://www.iiitb.ac.in/). My research explores the intersection of Human Computer Interaction and Artificial Intelligence, together with insights from psychological theories. I focus on building and evaluating human-centered, responsible AI technologies, with a particular emphasis on automated interview training systems for job seekers. Broadly, I'm interested in Human-centered AI, aiming to enhance individuals' ability to interact with and learn from AI systems, thereby making a tangible impact on them.
 
-Keywords: Human AI interaction, Responsible AI, Human-centered design and evaluation, AI risks
-
 I completed my Master's by Research in AI at IIIT Bangalore where my thesis focused on improving and automating asynchronous video interviews using Machine Learning, Natural Language Processing and Generation, Multimodal Processing. My industry background includes research experience at Accenture Technology Labs and HP Inc R&D Labs working on different NLP problems. Prior to my Master's, I worked at Fidelity Investments for 2 years.
 
 When not working, I enjoy doing the classical dance form of Kathak and getting to know about zero-waste / sustainable practices.
