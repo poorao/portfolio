@@ -161,7 +161,7 @@ body {
 
 .profile-title {
     font-size: 1.125rem;
-    color: var(--subtext-color);
+    color: var(--text-color);
     margin-top: 0.25rem;
 }
 
