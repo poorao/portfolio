@@ -17,14 +17,6 @@ layout: layout.liquid
             </ul>
         </div>
     </div>
-    <nav class="sidebar-nav">
-        <ul>
-            <li><a href="#about">About</a></li>
-            <li><a href="#updates">Updates</a></li>
-            <li><a href="#publications">Publications</a></li>
-            <li><a href="#master-thesis">Master Thesis</a></li>
-        </ul>
-    </nav>
 </aside>
 
 <main class="main-content">
