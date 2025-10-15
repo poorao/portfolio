@@ -34,7 +34,7 @@ layout: layout.liquid
                 Hiring Bias
             </h2>
             <div class="prose">
-                {% include "sections/about.md" | markdownify %}
+                {% include "sections/bias.md" | markdownify %}
             </div>
         </div>
     </section>
