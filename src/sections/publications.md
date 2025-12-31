@@ -1,3 +1,4 @@
+
 1. **Pooja S. B. Rao**, Sanja Šćepanović, Dinesh Babu Jayagopi, Mauro Cherubini, and Daniele Quercia, “[The AI Model Risk Catalog: What Developers and Researchers Miss About Real-World AI Harms.](https://doi.org/10.1609/aies.v8i3.36702)” AAAI/ACM Conference on AI, Ethics, and Society (AIES) 2025.
 2. **Pooja S. B. Rao**, Laxminarayen Nagarajan Venkatesan, Mauro Cherubini, and Dinesh Babu Jayagopi, “[Invisible Filters: Cultural Bias in Hiring Evaluations Using Large Language Models.](https://doi.org/10.1609/aies.v8i3.36703)” AAAI/ACM Conference on AI, Ethics, and Society (AIES) 2025.
 3. Dhruv Awasthi, **Pooja S. B. Rao**, and Dinesh Babu Jayagopi, “[ResumeGenAI: Supporting Job Seekers with LLM-Driven Resume Feedback.](https://doi.org/10.1145/3719160.3737622)” ACM Conference on Conversational User Interfaces (CUI) 2025.
