@@ -49,7 +49,7 @@ layout: layout.liquid
     <section id="publications">
         <div class="card">
             <h2 class="card-title">
-                Publications
+                Selected Publications
             </h2>
             <ul>
                 {% include "sections/publications.md" | markdownify %}
