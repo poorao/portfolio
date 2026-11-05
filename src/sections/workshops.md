@@ -1,3 +1,4 @@
+
 ## Multimodal Machine Learning for Human Behaviour Understanding
 This workshop introduced participants to the foundations and applications of multimodal machine learning for human-centric AI applications. The goal was to provide a brief overview of how to process different modalities such as **video, audio, and text**, and to highlight how communication extends beyond words through **facial expressions, tone, and non-verbal cues**. We included **hands-on code** for extracting features from these modalities and demonstrated how multimodal fusion could support data-driven evaluation of interview communication skills by combining facial, acoustic, and textual signals. Date: **April 2024**. Venue: **AMLD 2024, EPFL, Lausanne, Switzerland**. All materials and resources are available in this [repo](https://github.com/Laxminarayen/AMLD-24).
 

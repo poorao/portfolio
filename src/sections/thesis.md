@@ -1,3 +1,4 @@
+
 Rising unemployment, exacerbated by global economic instability and evolving labor markets, has intensified the need for scalable and effective job preparation tools. Simultaneously, the rapid proliferation of Artificial Intelligence (AI), driven by declining deployment costs and increasing complexity, has fundamentally transformed recruitment practices worldwide. Amid these trends, job seekers face a paradox: while AI offers new avenues for support, it also introduces concerns about unfulfilled user needs, as well as opaque and potentially biased mechanisms of evaluation.
 
 This thesis explores how AI is reshaping the landscape of job interview training while critically examining the risks these technologies pose. Through five interlinked studies, the research traces a progression from designing AI-enabled training systems to examining the broader risks accompanying their adoption in high-stakes settings such as hiring.
