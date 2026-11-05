@@ -1,3 +1,4 @@
+
 1. **Pooja S. B. Rao**, Laxminarayen Nagarajan Venkatesan, Dinesh Babu Jayagopi, and Mauro Cherubini, “[Robotic Answers: Participatory Identification of Risks in AI-Assisted Interview Training by Job Seekers](https://doi.org/10.1145/3805689.3812234)” ACM Conference on Fairness, Accountability, and Transparency (FAccT) 2026.
 2. **Pooja S. B. Rao**, Sanja Šćepanović, Dinesh Babu Jayagopi, Mauro Cherubini, and Daniele Quercia, “[The AI Model Risk Catalog: What Developers and Researchers Miss About Real-World AI Harms.](https://doi.org/10.1609/aies.v8i3.36702)” AAAI/ACM Conference on AI, Ethics, and Society (AIES) 2025.
 3. **Pooja S. B. Rao**, Laxminarayen Nagarajan Venkatesan, Mauro Cherubini, and Dinesh Babu Jayagopi, “[Invisible Filters: Cultural Bias in Hiring Evaluations Using Large Language Models.](https://doi.org/10.1609/aies.v8i3.36703)” AAAI/ACM Conference on AI, Ethics, and Society (AIES) 2025.

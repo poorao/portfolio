@@ -40,14 +40,6 @@ layout: layout.liquid
             </div>
         </div>
     </section>
-    <!-- <section id="updates">
-        <div class="card">
-            <h2 class="card-title">
-                Updates
-            </h2>
-            {% include "sections/updates.md" | markdownify %}
-        </div>
-    </section> -->
     <section id="publications">
         <div class="card">
             <h2 class="card-title">
