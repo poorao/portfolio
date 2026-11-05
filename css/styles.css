@@ -274,12 +274,38 @@ body {
     line-height: 1.5rem;
 }
 
+.card h3 {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: var(--text-color);
+    margin-top: 1.75rem;
+    margin-bottom: 0.5rem;
+}
+
+.card h3:first-of-type {
+    margin-top: 0;
+}
+
+.card hr {
+    border: 0;
+    border-top: 1px solid var(--border-color);
+    opacity: 0.2;
+    margin: 1.5rem 0;
+}
+
 .card strong {
     color: var(--text-color);
     font-weight: 500;
 }
 
-.card p { line-height: 1.75;}
+.card p { 
+    line-height: 1.75;
+    margin-bottom: 0.75rem;
+}
+
+.card p:last-child {
+    margin-bottom: 0;
+}
 
 .card ol, .card ul {
     padding-left: 1.25rem;

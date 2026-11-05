@@ -23,7 +23,7 @@ layout: layout.liquid
             <li><a href="#publications">Publications</a></li>
             <li><a href="#workshops">Workshops</a></li>
             <li><a href="#phd-thesis">PhD Thesis</a></li>
-            <li><a href="#workshops">Professional Activities</a></li>
+            <li><a href="#activities">Professional Activities</a></li>
             <li><a href="#master-thesis">Master Thesis</a></li>
         </ul>
     </nav>
@@ -36,54 +36,64 @@ layout: layout.liquid
                 Hello!
             </h2>
             <div class="prose">
-                {% include "sections/about.md" | markdownify %}
+
+{% include "sections/about.md" %}
+
             </div>
         </div>
     </section>
-    <section id="publications">
-        <div class="card">
-            <h2 class="card-title">
-                Selected Publications
-            </h2>
-            <ul>
-                {% include "sections/publications.md" | markdownify %}
-            </ul>
-        </div>
-    </section>
-    <section id="workshops">
-        <div class="card">
-            <h2 class="card-title">
-                Workshops Organized
-            </h2>
-            <ul>
-                {% include "sections/workshops.md" | markdownify %}
-            </ul>
-        </div>
-    </section>
-    <section id="phd-thesis">
-        <div class="card">
-            <h2 class="card-title">
-                PhD Thesis
-            </h2>
-            {% include "sections/thesis.md" | markdownify %}
-        </div>
-    </section>
-    <section id="activities">
-        <div class="card">
-            <h2 class="card-title">
-                Professional Activities
-            </h2>
-            <ul>
-                {% include "sections/activities.md" | markdownify %}
-            </ul>
-        </div>
-    </section>
-    <section id="master-thesis">
-        <div class="card">
-            <h2 class="card-title">
-                Master Thesis
-            </h2>
-            {% include "sections/master-thesis.md" | markdownify %}
-        </div>
-    </section>
+<section id="publications">
+    <div class="card">
+        <h2 class="card-title">
+            Selected Publications
+        </h2>
+
+{% include "sections/publications.md" %}
+
+</div>
+</section>
+
+<section id="workshops">
+    <div class="card">
+        <h2 class="card-title">
+            Workshops Organized
+        </h2>
+
+{% include "sections/workshops.md" %}
+
+</div>
+</section>
+
+<section id="phd-thesis">
+    <div class="card">
+        <h2 class="card-title">
+            PhD Thesis
+        </h2>
+
+{% include "sections/thesis.md" %}
+
+</div>
+</section>
+
+<section id="activities">
+    <div class="card">
+        <h2 class="card-title">
+            Professional Activities
+        </h2>
+
+{% include "sections/activities.md" %}
+
+</div>
+</section>
+
+<section id="master-thesis">
+    <div class="card">
+        <h2 class="card-title">
+            Master Thesis
+        </h2>
+
+{% include "sections/master-thesis.md" %}
+
+</div>
+</section>
 </main>
