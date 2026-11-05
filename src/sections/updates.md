@@ -6,7 +6,7 @@
 - **06/2024:** Our journal paper got accepted to IJHCS!
 - **04/2024:** Successfully conducted the workshop “Multimodal Machine Learning for Human Behaviour Understanding” at AMLD 2024. You can find all the resources in this [repo](https://github.com/Laxminarayen/AMLD-24)!
 - **12/2023:** Our workshop proposal “Multimodal Machine Learning for Human Behaviour Understanding”, joint work with Laxminarayen N. V., got accepted at [AMLD 2024](https://appliedmldays.org/events/amld-epfl-2024)
-- **07/2023:** Invited talk on our CHI 2023 paper “Changes in Research Ethics, Openness, and Transparency in Empirical Studies between CHI 2017 and CHI 2022” at the Nokia Bell Labs, Cambridge. You can find the talk [here](http.social-dynamics.net/seminars.html).
+- **07/2023:** Invited talk on our CHI 2023 paper “Changes in Research Ethics, Openness, and Transparency in Empirical Studies between CHI 2017 and CHI 2022” at the Nokia Bell Labs, Cambridge. You can find the talk [here](http://social-dynamics.net/seminars.html).
 - **04/2023:** Our paper “Changes in Research Ethics, Openness, and Transparency in Empirical Studies between CHI 2017 and CHI 2022” has received the [Best Paper](https://programs.sigchi.org/chi/2023/awards/best-papers) recognition at ACM CHI 2023
 - **11/2022:** Volunteered for [ICMI 2022](https://icmi.acm.org/2022/) that happened in Bangalore, India.
 - **08/2022:** Our paper "Understanding Interviewees' Perceptions and Behaviour to Verbally and Non-verbally Expressive Virtual Interviewing Agents" accepted at workshop [GENEA](https://genea-workshop.github.io/2022/workshop/) organized in conjunction with ICMI 2022

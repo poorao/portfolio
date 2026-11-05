@@ -4,19 +4,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ title | default: "Pooja Rao" }} - Researcher Portfolio</title>
+    <title>{% if title %}{{ title }} | Pooja Rao{% else %}Pooja Rao - Researcher Portfolio{% endif %}</title>
 
     <meta name="description" content="{{ description | default: 'PhD Researcher at the intersection of Human-Computer Interaction and Artificial Intelligence.' }}">
     <meta name="author" content="Pooja Rao">
     <meta name="keywords" content="researcher, pooja rao, pooja rao s b, Human AI interaction, Responsible AI, Human-centered design and evaluation, AI risks, UNIL, University of Lausanne, RiskRAG, HCI">
 
-    <!-- Preconnect to Google Fonts -->
+    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
     <!-- Stylesheets -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="/css/styles.css" rel="stylesheet">
 
     <!-- Favicon -->
@@ -25,12 +25,12 @@
 </head>
 
 <body>
-    <main>
+    <div class="site-wrapper">
         <div class="container">
             <div class="layout-grid">
                 {{ content }}
             </div>
         </div>
-    </main>
+    </div>
 </body>
 </html>

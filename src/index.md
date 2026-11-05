@@ -35,13 +35,13 @@ layout: layout.liquid
             <h2 class="card-title">
                 Hello!
             </h2>
-            <div class="prose">
+<div class="prose">
 
 {% include "sections/about.md" %}
 
-            </div>
-        </div>
-    </section>
+</div>
+</div>
+</section>
 <section id="publications">
     <div class="card">
         <h2 class="card-title">
