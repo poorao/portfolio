@@ -1,5 +1,32 @@
+<p>
+    My Master's by Research at IIIT Bangalore focused on enhancing and automating elements of asynchronous video interview systems, addressing conversational follow-up generation and multi-modal candidate assessment using Machine Learning and NLP.
+</p>
 
-Work towards adding automated elements to asynchronous interview systems by solving the problems of interview follow-up question generation and automatic assessment of candidates using various Machine Learning techniques like text generation, text classification and transfer learning techniques for NLP.
+<div class="workshop-grid" style="margin-top: 16px;">
+    <div class="workshop-card">
+        <h4 class="workshop-title">Automatic Follow-up Question Generation</h4>
+        <p class="workshop-body">
+            Enabling virtual interviewers to generate contextual follow-up questions dynamically given candidate responses, utilizing LSTM and Transformer-based language generation models.
+        </p>
+        <div class="pub-actions">
+            <a href="https://www.youtube.com/watch?v=gdPxdi82nV0" target="_blank" rel="noopener noreferrer" class="btn-secondary" style="font-size: 13px; height: 36px;">
+                Watch Demo on YouTube &nearr;
+            </a>
+        </div>
+    </div>
 
-*   **Automatic Follow-up Question Generation** – enable a virtual interviewer to generate a follow-up question given a predetermined question and a candidate response using LSTM-based and Transformer models. ([View demo](https://www.youtube.com/watch?v=gdPxdi82nV0))
-*   **Automatic Assessment of Communication Skill** – Supervised predictive models to assess the written communication skill scores of interview candidates in various non-conventional interview settings. (View [thesis](https://ms-by-research-thesis.s3.amazonaws.com/thesis.pdf) and [defense slides](https://ms-by-research-thesis.s3.amazonaws.com/ThesisDefence_release.pdf))
+    <div class="workshop-card">
+        <h4 class="workshop-title">Automatic Assessment of Communication Skill</h4>
+        <p class="workshop-body">
+            Supervised predictive models to evaluate written and verbal communication fluency scores for interviewees in non-conventional interview formats.
+        </p>
+        <div class="pub-actions">
+            <a href="https://ms-by-research-thesis.s3.amazonaws.com/thesis.pdf" target="_blank" rel="noopener noreferrer" class="btn-secondary" style="font-size: 13px; height: 36px;">
+                Download Thesis PDF &nearr;
+            </a>
+            <a href="https://ms-by-research-thesis.s3.amazonaws.com/ThesisDefence_release.pdf" target="_blank" rel="noopener noreferrer" class="btn-secondary" style="font-size: 13px; height: 36px;">
+                Defense Slides &nearr;
+            </a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,38 @@
+<svg viewBox="0 0 110 100" fill="none" xmlns="http://www.w3.org/2000/svg" class="ph-mascot-illustration" aria-label="Hedgehog presenting a workshop session">
+  <!-- Small whiteboard / code screen in background -->
+  <rect x="52" y="14" width="50" height="36" rx="4" fill="#23251d" stroke="#23251d" stroke-width="2"/>
+  <rect x="54" y="16" width="46" height="32" rx="3" fill="#23251d"/>
+  <!-- Code lines on screen -->
+  <circle cx="59" cy="22" r="1.5" fill="#cd4239"/>
+  <circle cx="64" cy="22" r="1.5" fill="#f7a501"/>
+  <circle cx="69" cy="22" r="1.5" fill="#2c8c66"/>
+  <line x1="58" y1="28" x2="74" y2="28" stroke="#f7a501" stroke-width="2" stroke-linecap="round"/>
+  <line x1="58" y1="34" x2="88" y2="34" stroke="#2c84e0" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="62" y1="40" x2="82" y2="40" stroke="#d9eddf" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- Stand for screen -->
+  <line x1="77" y1="50" x2="77" y2="66" stroke="#23251d" stroke-width="2"/>
+  <line x1="70" y1="66" x2="84" y2="66" stroke="#23251d" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Spines -->
+  <path d="M18 78C8 72 4 58 5 42C6 24 20 12 40 10C50 9 60 13 68 20L74 16L74 24L80 25L78 33L84 37L80 44L86 51L79 56L83 63L74 67L76 75C66 82 54 86 42 86C30 86 23 82 18 78Z" fill="#b17816" stroke="#23251d" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Body/Face -->
+  <path d="M26 80C38 84 56 82 66 70C74 60 74 46 66 38C58 30 44 32 34 40C24 50 20 70 26 80Z" fill="#faefe0" stroke="#23251d" stroke-width="2.5"/>
+  <!-- Snout -->
+  <path d="M70 42C72 42 74 40 73 38C72 36 70 36 68 38C67 39 68 42 70 42Z" fill="#23251d"/>
+  <!-- Eye -->
+  <circle cx="58" cy="36" r="2.8" fill="#23251d"/>
+  <circle cx="57" cy="35" r="0.8" fill="#ffffff"/>
+  <!-- Smile -->
+  <path d="M60 46C63 48 66 47 68 45" stroke="#23251d" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- Blush -->
+  <ellipse cx="55" cy="45" rx="3" ry="1.8" fill="#f7d6d3"/>
+  <!-- Ear -->
+  <path d="M44 26C42 22 46 19 50 21C52 22 52 26 49 28" fill="#f7d6d3" stroke="#23251d" stroke-width="2"/>
+  <!-- Pointer stick held by hedgehog -->
+  <line x1="56" y1="54" x2="68" y2="34" stroke="#f7a501" stroke-width="2.8" stroke-linecap="round"/>
+  <!-- Arm / Paw -->
+  <ellipse cx="54" cy="56" rx="4" ry="3" fill="#faefe0" stroke="#23251d" stroke-width="1.8"/>
+  <!-- Feet -->
+  <ellipse cx="30" cy="84" rx="5" ry="3" fill="#faefe0" stroke="#23251d" stroke-width="2"/>
+  <ellipse cx="50" cy="84" rx="5" ry="3" fill="#faefe0" stroke="#23251d" stroke-width="2"/>
+</svg>

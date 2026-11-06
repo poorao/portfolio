@@ -1,0 +1,21 @@
+<svg viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg" class="ph-mascot-logo" aria-label="PostHog style hedgehog mascot">
+  <!-- Spines -->
+  <path d="M12 36C8 33 4 28 4 20C4 11 12 4 22 4C25 4 29 5 32 8L35 6L35 11L39 12L37 17L41 20L38 24L41 28L36 31L37 36C33 39 27 40 22 40C18 40 14 38 12 36Z" fill="#b17816" stroke="#23251d" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M10 22L4 20L10 18M13 14L8 10L14 11M19 8L16 4L21 6M26 7L27 2L29 7" stroke="#23251d" stroke-width="2" stroke-linecap="round"/>
+  <!-- Belly / Face -->
+  <path d="M16 38C23 40 33 38 36 30C38 25 38 18 32 14C27 10 20 12 16 16C12 20 11 32 16 38Z" fill="#faefe0" stroke="#23251d" stroke-width="2"/>
+  <!-- Snout / Nose -->
+  <path d="M37 23C38.5 23 39.5 21.8 39 20.5C38.5 19.5 37 19.5 36 20.5C35.2 21.3 35.8 23 37 23Z" fill="#23251d"/>
+  <!-- Eye -->
+  <circle cx="28" cy="19" r="2.5" fill="#23251d"/>
+  <circle cx="27" cy="18" r="0.8" fill="#ffffff"/>
+  <!-- Smile -->
+  <path d="M30 25C32 26 34 25 35 24" stroke="#23251d" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- Blush -->
+  <ellipse cx="26" cy="24" rx="2.5" ry="1.5" fill="#f7d6d3"/>
+  <!-- Ear -->
+  <path d="M21 15C20 13 22 11 24 12C25 13 25 15 23 16" fill="#f7d6d3" stroke="#23251d" stroke-width="1.8"/>
+  <!-- Little feet -->
+  <ellipse cx="19" cy="38" rx="3" ry="2" fill="#faefe0" stroke="#23251d" stroke-width="1.8"/>
+  <ellipse cx="30" cy="37" rx="3" ry="2" fill="#faefe0" stroke="#23251d" stroke-width="1.8"/>
+</svg>

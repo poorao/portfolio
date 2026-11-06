@@ -1,19 +1,65 @@
+<div class="banner-callout banner-tip-purple">
+    <div class="banner-callout-icon">📘</div>
+    <div class="banner-callout-content">
+        <strong>Doctoral Dissertation (University of Lausanne, UNIL)</strong>
+        <p>
+            Co-advised by <strong>Prof. Mauro Cherubini</strong> (UNIL, Switzerland) and <strong>Prof. Dinesh Babu Jayagopi</strong> (IIIT Bangalore, India). Traces a five-study progression from building user-centered training systems to systematically identifying and communicating risks and cultural biases in high-stakes hiring settings.
+        </p>
+    </div>
+</div>
 
-Rising unemployment, exacerbated by global economic instability and evolving labor markets, has intensified the need for scalable and effective job preparation tools. Simultaneously, the rapid proliferation of Artificial Intelligence (AI), driven by declining deployment costs and increasing complexity, has fundamentally transformed recruitment practices worldwide. Amid these trends, job seekers face a paradox: while AI offers new avenues for support, it also introduces concerns about unfulfilled user needs, as well as opaque and potentially biased mechanisms of evaluation.
+<p>
+    Rising unemployment, exacerbated by economic shifts, has intensified the demand for scalable interview preparation tools. Concurrently, the rapid proliferation of Artificial Intelligence in recruitment presents a paradox: while AI offers personalized training avenues, it introduces concerns regarding unfulfilled user needs, algorithmic opacity, and latent bias.
+</p>
 
-This thesis explores how AI is reshaping the landscape of job interview training while critically examining the risks these technologies pose. Through five interlinked studies, the research traces a progression from designing AI-enabled training systems to examining the broader risks accompanying their adoption in high-stakes settings such as hiring.
+<p>
+    This thesis explores how AI reshapes job interview training through <strong>five interlinked empirical studies</strong>:
+</p>
 
-The first study introduces InterviewApp, an asynchronous video interview (AVI) training system designed using Self-Determination Theory, a psychological framework that emphasizes fulfillment of autonomy, competence, and relatedness as essential for self-determined motivation and learning. With InterviewApp, I examine how structured training and feedback can enhance job seekers’ interview motivation and performance. The intervention with job seekers demonstrates the mediating role of autonomy in influencing performance. Features such as mock interview recordings, playback, and expert feedback positively influence performance. Additionally, the study reveals a strong need for feedback that is personalized, actionable, and available repeatedly, which is challenging to meet through conventional human-led training alone.
+<div class="thesis-studies-grid">
+    <div class="thesis-study-card">
+        <span class="thesis-study-num">Study 01 &bull; System Design</span>
+        <h4 class="thesis-study-title">InterviewApp &amp; Self-Determination</h4>
+        <p class="thesis-study-desc">
+            Designed an asynchronous video interview training system using Self-Determination Theory. Proved the mediating role of autonomy in performance and surfaced the demand for personalized, actionable, repeated feedback (IJHCS 2024).
+        </p>
+    </div>
 
-The second study employs a participatory co-design methodology to envision how AI might fill this gap. This study collaboratively surfaces needs, constraints, and ethical concerns related to AI-assisted interview training systems by engaging two key stakeholder groups: job seekers and AI practitioners. Findings reveal the requirements job seekers value, their concerns, and practitioner insights into feasibility, pitfalls, and responsible development.
-It uncovers key tensions between job seekers' perceptions and AI practitioners' expertise around human–AI collaboration and accountability. The results highlight the four socio-psychological risks perceived by job seekers. These insights offer valuable design considerations for AI interview training systems, demonstrating the significance of stakeholder engagement in AI design for effective user-centered solutions.
+    <div class="thesis-study-card">
+        <span class="thesis-study-num">Study 02 &bull; Participatory Co-Design</span>
+        <h4 class="thesis-study-title">Job Seeker Risk Identification</h4>
+        <p class="thesis-study-desc">
+            Collaboratively surfaced user needs and ethical tensions with 20 job seekers and AI practitioners, identifying 4 socio-psychological risks of AI interview training (FAccT 2026).
+        </p>
+    </div>
 
-The third study builds directly on the concerns raised during co-design, particularly around fairness. I examine how AI, particularly Large Language Models (LLMs), evaluate job interview responses across cultural contexts. Using a controlled dataset of video interview transcripts from UK and Indian job seekers, this analysis examines how LLMs rated attributes such as hirability, self-promotion, storytelling, and positive impression. The findings reveal systematic disparities: Indian transcripts consistently receive lower scores, even when anonymized. Linguistic features, such as syntactic complexity and lexical diversity, rather than identity cues like name or gender, are linked to these disparities. This study highlights the latent cultural biases embedded within LLMs and underscores the need for culturally sensitive evaluation systems in employment settings.
+    <div class="thesis-study-card">
+        <span class="thesis-study-num">Study 03 &bull; Fairness Auditing</span>
+        <h4 class="thesis-study-title">Latent Cultural Bias in LLMs</h4>
+        <p class="thesis-study-desc">
+            Audited LLM ratings across UK and Indian interview transcripts. Discovered systemic disparities linked to linguistic features like syntactic complexity rather than name or gender markers (AIES 2025).
+        </p>
+    </div>
 
-To address the broader implications of such biases, the final two studies interrogate the wider ecosystem of AI model risk communication and reporting. The fourth study introduces the AI Model Risk Catalog, compiled from nearly 460,000 human-written model documentation. Comparing developer-reported risks with real-world harms from the AI Incident Database and academic risk taxonomies, we identified major reporting gaps, specifically around fraud, manipulation, and social engineering, issues highly relevant to employment-related applications.
+    <div class="thesis-study-card">
+        <span class="thesis-study-num">Study 04 &bull; Documentation Audit</span>
+        <h4 class="thesis-study-title">The AI Model Risk Catalog</h4>
+        <p class="thesis-study-desc">
+            Analyzed 460,000 human-written model cards against real-world harms from the AI Incident Database, revealing critical blindspots around fraud and manipulation (AIES 2025).
+        </p>
+    </div>
 
-The fifth study introduces RiskRAG, a Retrieval-Augmented Generation tool designed to address these documentation shortcomings. Co-designed with AI developers, RiskRAG generates contextual, actionable risk reports tailored to specific models and their applications. User evaluations with practitioners show that RiskRAG improves risk awareness and model selection decisions, fostering more deliberative practices, particularly important in sensitive domains like hiring.
+    <div class="thesis-study-card">
+        <span class="thesis-study-num">Study 05 &bull; Risk Reporting Tool</span>
+        <h4 class="thesis-study-title">RiskRAG: Contextual Risk Generation</h4>
+        <p class="thesis-study-desc">
+            Co-designed a Retrieval-Augmented Generation tool with developers to generate tailored, actionable risk reports, improving risk awareness and model selection decisions (CHI 2025).
+        </p>
+    </div>
+</div>
 
-Together, these five studies offer a comprehensive examination of AI's role in job interview training, from system design and participatory development to fairness auditing and systematic risk identification and reporting. This thesis has valuable implications for developing effective tools for job seekers, but also contributes to the broader discourse on the responsible development of AI systems. It emphasizes the need to embed equity, transparency, and accountability across the AI lifecycle, particularly in domains that shape access to economic opportunity.
-
-Full thesis can be found [here](https://iris.unil.ch/entities/publication/d99651f9-3551-41e4-99e0-563db36ab034)
+<div class="pub-actions" style="margin-top: 20px;">
+    <a href="https://iris.unil.ch/entities/publication/d99651f9-3551-41e4-99e0-563db36ab034" target="_blank" rel="noopener noreferrer" class="btn-primary">
+        Read Full PhD Thesis on UNIL IRIS &nearr;
+    </a>
+</div>

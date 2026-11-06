@@ -1,14 +1,52 @@
+<div class="thesis-studies-grid" style="margin-bottom: 24px;">
+    <!-- Award -->
+    <div class="thesis-study-card">
+        <span class="thesis-study-num">Award &bull; 2025</span>
+        <h4 class="thesis-study-title">SIGCHI Gary Marsden Travel Award</h4>
+        <p class="thesis-study-desc">
+            Received international travel grant from ACM SIGCHI to attend and present our research at <strong>ACM CHI 2025</strong> in Yokohama, Japan.
+        </p>
+    </div>
 
-- **March 2025:** Received the SIGCHI Gary Marsden Travel Award to attend CHI 2025 in Yokohama, Japan, supporting my participation in the global HCI research community.
+    <!-- Invited Talk -->
+    <div class="thesis-study-card">
+        <span class="thesis-study-num">Invited Talk &bull; 2023</span>
+        <h4 class="thesis-study-title">Nokia Bell Labs, Cambridge</h4>
+        <p class="thesis-study-desc">
+            Invited talk on <em>"Changes in Research Ethics, Openness, and Transparency in Empirical Studies between CHI 2017 and CHI 2022"</em>. <a href="http://social-dynamics.net/seminars.html" target="_blank" rel="noopener noreferrer">Details &nearr;</a>
+        </p>
+    </div>
 
-- **Jan 2024:** Served as a student volunteer for CODS-COMAD in Bangalore, India, contributing to the smooth organization and delivery of the conference.
+    <!-- Workshop Talk -->
+    <div class="thesis-study-card">
+        <span class="thesis-study-num">Invited Session &bull; 2022</span>
+        <h4 class="thesis-study-title">ACM CHI HCXAI Workshop</h4>
+        <p class="thesis-study-desc">
+            Presented <em>"Explainability in Automated Training and Feedback Systems"</em> at the Human-Centered Explainable AI Workshop. <a href="https://youtu.be/E62dlroRqhw?t=464" target="_blank" rel="noopener noreferrer">Watch Talk &nearr;</a>
+        </p>
+    </div>
 
-- **July 2023:** Delivered an invited talk on our CHI 2023 paper, “Changes in Research Ethics, Openness, and Transparency in Empirical Studies between CHI 2017 and CHI 2022,” at Nokia Bell Labs in Cambridge. The talk is available [here](http://social-dynamics.net/seminars.html).
+    <!-- Volunteering -->
+    <div class="thesis-study-card">
+        <span class="thesis-study-num">Community Service</span>
+        <h4 class="thesis-study-title">Conference Volunteering</h4>
+        <p class="thesis-study-desc">
+            Served as student volunteer for <strong>CODS-COMAD 2024</strong> (Bangalore), <strong>ACM ICMI 2022</strong> (Bangalore), and <strong>AMLD 2022</strong> (EPFL, Lausanne).
+        </p>
+    </div>
+</div>
 
-- **November 2022:** Volunteered for ICMI 2022 in Bangalore, India, supporting the conference and enabling a successful research event.
-
-- **May 2022:** Our opinion paper, “Explainability in Automated Training and Feedback Systems,” was accepted at the ACM CHI Workshop on Human-Centered Perspectives in Explainable AI (HCXAI 2022). The talk is available [here](https://youtu.be/E62dlroRqhw?t=464).
-
-- **March 2022:** Volunteered for AMLD 2022 in Lausanne, Switzerland, helping support a leading applied machine learning event.
-
-- **Reviewing:** Actively contributing to the scientific community as a reviewer for CHI, AIES, CSCW, MobileHCI, and INTERACT, supporting the peer-review process in HCI and AI research.
+<div class="banner-callout banner-tip-blue">
+    <div class="banner-callout-icon">🔍</div>
+    <div class="banner-callout-content">
+        <strong>Peer Reviewing &amp; Program Committees</strong>
+        <p>
+            Actively contributing to peer review for top venues at the intersection of HCI and AI ethics, including:
+            <strong>ACM CHI</strong> (Human Factors in Computing Systems),
+            <strong>AAAI/ACM AIES</strong> (AI, Ethics, and Society),
+            <strong>ACM CSCW</strong> (Computer-Supported Cooperative Work),
+            <strong>ACM MobileHCI</strong>, and
+            <strong>IFIP INTERACT</strong>.
+        </p>
+    </div>
+</div>

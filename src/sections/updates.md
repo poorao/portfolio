@@ -1,24 +1,85 @@
+<div class="timeline-list">
+    <div class="timeline-row">
+        <span class="timeline-date-badge">04 / 2025</span>
+        <div class="timeline-text">
+            Presented our paper <strong>"RiskRAG: A Data-Driven Solution for Improved AI Model Risk Reporting"</strong> at <strong>ACM CHI 2025</strong> in Yokohama, Japan.
+        </div>
+    </div>
 
-- **04/2025:** Presented our CHI '25 paper "RiskRAG: A Data-Driven Solution for Improved AI Model Risk Reporting" at Yokohama, Japan.
-- **03/2025:** Received the SIGCHI Gary Marsden Travel award to travel to Yokohama, Japan for CHI 2025.
-- **01/2025:** My work at Nokia Bell Labs got accepted to CHI 2025!
-- **06/2024 to 08/2024:** Summer internship at the Responsible AI team, Nokia Bell Labs, Cambridge.
-- **06/2024:** Our journal paper got accepted to IJHCS!
-- **04/2024:** Successfully conducted the workshop “Multimodal Machine Learning for Human Behaviour Understanding” at AMLD 2024. You can find all the resources in this [repo](https://github.com/Laxminarayen/AMLD-24)!
-- **12/2023:** Our workshop proposal “Multimodal Machine Learning for Human Behaviour Understanding”, joint work with Laxminarayen N. V., got accepted at [AMLD 2024](https://appliedmldays.org/events/amld-epfl-2024)
-- **07/2023:** Invited talk on our CHI 2023 paper “Changes in Research Ethics, Openness, and Transparency in Empirical Studies between CHI 2017 and CHI 2022” at the Nokia Bell Labs, Cambridge. You can find the talk [here](http://social-dynamics.net/seminars.html).
-- **04/2023:** Our paper “Changes in Research Ethics, Openness, and Transparency in Empirical Studies between CHI 2017 and CHI 2022” has received the [Best Paper](https://programs.sigchi.org/chi/2023/awards/best-papers) recognition at ACM CHI 2023
-- **11/2022:** Volunteered for [ICMI 2022](https://icmi.acm.org/2022/) that happened in Bangalore, India.
-- **08/2022:** Our paper "Understanding Interviewees' Perceptions and Behaviour to Verbally and Non-verbally Expressive Virtual Interviewing Agents" accepted at workshop [GENEA](https://genea-workshop.github.io/2022/workshop/) organized in conjunction with ICMI 2022
-- **05/2022:** Presented our opinion paper "Explainability in Automated Training and Feedback Systems" ACM CHI Workshop [HCXAI 2022](https://hcxai.jimdosite.com/). You can find the talk [here](https://youtu.be/E62dlroRqhw?t=464).
-- **04/2022:** Our opinion paper "Explainability in Automated Training and Feedback Systems" accepted at ACM CHI Workshop Human-Centered Perspectives in Explainable AI [HCXAI 2022](https://hcxai.jimdosite.com/)
-- **03/2022:** Volunteered for [AMLD 2022](https://appliedmldays.org/events/amld-epfl-2022) that happened in Lausanne, Switzerland.
-- **04/2021:** Successfully conducted the workshop “Virtual Interviewer: Build your own interviewing agent” at AMLD 2021. You can find all the resources in this [repo](https://github.com/poorao/virtual-interviewer-AMLD2021)!
-- **02/2021:** Our paper "Improving Asynchronous Interview Interaction with Follow-up Question Generation" has been accepted for publication in the International Journal of Interactive Multimedia and Artificial Intelligence (Special Issue Extended Papers ECAI)
-- **02/2021:** Our workshop “Virtual Interviewer: Build your own interviewing agent” is scheduled on April 27th from 14:00 to 17:00. Find more details [here](https://appliedmldays.org/events/amld-epfl-2021/workshops/virtual-interviewer-build-your-own-interviewing-agent)!
-- **12/2020:** Our workshop proposal “Virtual Interviewer: Build your own interviewing agent” accepted at [AMLD 2021](https://appliedmldays.org/events/amld-epfl-2021)
-- **12/2020:** Conducted a hands-on session "[Procedure Detection](https://github.com/poorao/procedure-detection-hands-on)" for R V College of Engineering
-- **11/2020:** Our paper "Towards Generating Topic-driven and Affective Responses to assist Mental Wellness" accepted at [CARE 2020](http://phuselab.di.unimi.it/CARE2020/) organized in conjunction with ICPR2020
-- **09/2020:** Joined University of Lausanne as a PhD student
-- **09/2020:** Presented our paper "Incorporating Automatic Follow-up Question Generation for Asynchronous Interviews" IntelLang 2020 (slides)
-- **06/2020:** Our paper "Incorporating Automatic Follow-up Question Generation for Asynchronous Interviews" accepted at [IntelLanG](https://intellang.github.io/) workshop co-located with ECAI 2020
+    <div class="timeline-row">
+        <span class="timeline-date-badge">03 / 2025</span>
+        <div class="timeline-text">
+            Received the prestigious <strong>SIGCHI Gary Marsden Travel Award</strong> to attend and present at CHI 2025 in Yokohama, Japan.
+        </div>
+    </div>
+
+    <div class="timeline-row">
+        <span class="timeline-date-badge">01 / 2025</span>
+        <div class="timeline-text">
+            Our collaborative research conducted at <strong>Nokia Bell Labs</strong> accepted to <strong>ACM CHI 2025</strong>!
+        </div>
+    </div>
+
+    <div class="timeline-row">
+        <span class="timeline-date-badge">06-08 / 2024</span>
+        <div class="timeline-text">
+            Completed research internship with the <strong>Responsible AI Team</strong> at <strong>Nokia Bell Labs</strong>, Cambridge, UK.
+        </div>
+    </div>
+
+    <div class="timeline-row">
+        <span class="timeline-date-badge">06 / 2024</span>
+        <div class="timeline-text">
+            Our journal paper <em>"On the Potential of Supporting Autonomy in Online Video Interview Training Platforms"</em> officially accepted to the <strong>International Journal of Human-Computer Studies (IJHCS)</strong>!
+        </div>
+    </div>
+
+    <div class="timeline-row">
+        <span class="timeline-date-badge">04 / 2024</span>
+        <div class="timeline-text">
+            Successfully delivered the workshop <strong>"Multimodal Machine Learning for Human Behaviour Understanding"</strong> at <strong>AMLD 2024</strong> (EPFL, Switzerland). <a href="https://github.com/Laxminarayen/AMLD-24" target="_blank" rel="noopener noreferrer">Materials & Repo &nearr;</a>
+        </div>
+    </div>
+
+    <div class="timeline-row">
+        <span class="timeline-date-badge">07 / 2023</span>
+        <div class="timeline-text">
+            Delivered an invited seminar on empirical research ethics and transparency at <strong>Nokia Bell Labs</strong>, Cambridge. <a href="http://social-dynamics.net/seminars.html" target="_blank" rel="noopener noreferrer">Seminar Details &nearr;</a>
+        </div>
+    </div>
+
+    <div class="timeline-row">
+        <span class="timeline-date-badge">04 / 2023</span>
+        <div class="timeline-text">
+            Honored with the <strong style="color: #92400e;">🏆 Best Paper Award (Top 1%)</strong> at <strong>ACM CHI 2023</strong> for <em>"Changes in Research Ethics, Openness, and Transparency in Empirical Studies between CHI 2017 and CHI 2022"</em>!
+        </div>
+    </div>
+
+    <div class="timeline-row">
+        <span class="timeline-date-badge">11 / 2022</span>
+        <div class="timeline-text">
+            Volunteered for <strong>ACM ICMI 2022</strong> held in Bangalore, India, supporting the multimodal interaction research community.
+        </div>
+    </div>
+
+    <div class="timeline-row">
+        <span class="timeline-date-badge">05 / 2022</span>
+        <div class="timeline-text">
+            Presented opinion paper <em>"Explainability in Automated Training and Feedback Systems"</em> at the <strong>ACM CHI HCXAI 2022 Workshop</strong>. <a href="https://youtu.be/E62dlroRqhw?t=464" target="_blank" rel="noopener noreferrer">Recorded Talk &nearr;</a>
+        </div>
+    </div>
+
+    <div class="timeline-row">
+        <span class="timeline-date-badge">04 / 2021</span>
+        <div class="timeline-text">
+            Organized and conducted the hands-on workshop <strong>"Virtual Interviewer: Build your own interviewing agent"</strong> at <strong>AMLD 2021</strong>. <a href="https://github.com/poorao/virtual-interviewer-AMLD2021" target="_blank" rel="noopener noreferrer">GitHub Repo &nearr;</a>
+        </div>
+    </div>
+
+    <div class="timeline-row">
+        <span class="timeline-date-badge">09 / 2020</span>
+        <div class="timeline-text">
+            Commenced doctoral research at <strong>University of Lausanne (UNIL)</strong> in partnership with IIIT Bangalore.
+        </div>
+    </div>
+</div>

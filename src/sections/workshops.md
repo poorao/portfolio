@@ -1,22 +1,60 @@
+<div class="workshop-grid">
 
-### Multimodal Machine Learning for Human Behaviour Understanding
+    <!-- Workshop 1: AMLD 2024 -->
+    <div class="workshop-card">
+        <div class="workshop-header">
+            <div class="pub-meta-row">
+                <span class="badge-promo">AMLD 2024</span>
+                <span class="caption-sm">EPFL &bull; Lausanne, Switzerland &bull; April 2024</span>
+            </div>
+            <h3 class="workshop-title">Multimodal Machine Learning for Human Behaviour Understanding</h3>
+        </div>
+        <p class="workshop-body">
+            This workshop introduced participants to the foundations and applications of multimodal machine learning for human-centric AI applications. We covered how to process different modalities such as <strong>video, audio, and text</strong>, highlighting how human communication extends beyond words through <strong>facial expressions, tone, and non-verbal cues</strong>. We included hands-on code for feature extraction and demonstrated how multimodal fusion supports data-driven evaluation of interview communication skills.
+        </p>
+        <div class="pub-actions">
+            <a href="https://github.com/Laxminarayen/AMLD-24" target="_blank" rel="noopener noreferrer" class="btn-secondary" style="height: 36px; padding: 6px 14px; font-size: 13px;">
+                View Workshop Materials &amp; GitHub Repo &nearr;
+            </a>
+        </div>
+    </div>
 
-AMLD 2024, EPFL, Lausanne, Switzerland &bull; April 2024 &bull; [Materials & Repo](https://github.com/Laxminarayen/AMLD-24)
+    <!-- Workshop 2: AMLD 2021 -->
+    <div class="workshop-card">
+        <div class="workshop-header">
+            <div class="pub-meta-row">
+                <span class="badge-green">AMLD 2021</span>
+                <span class="caption-sm">EPFL &bull; Lausanne, Switzerland &bull; April 2021</span>
+            </div>
+            <h3 class="workshop-title">Virtual Interviewer: Build Your Own Interviewing Agent</h3>
+        </div>
+        <p class="workshop-body">
+            Conducted in two hands-on parts: first, building an automated follow-up question generation model using a <strong>pre-trained GPT-2 language model</strong>; second, deploying the model as an expressive virtual interviewing agent using <strong>AWS Sumerian</strong>. The session combined NLP model development with real-time conversational agent deployment.
+        </p>
+        <div class="pub-actions">
+            <a href="https://github.com/poorao/virtual-interviewer-AMLD2021" target="_blank" rel="noopener noreferrer" class="btn-secondary" style="height: 36px; padding: 6px 14px; font-size: 13px;">
+                View Workshop Materials &amp; GitHub Repo &nearr;
+            </a>
+        </div>
+    </div>
 
-This workshop introduced participants to the foundations and applications of multimodal machine learning for human-centric AI applications. The goal was to provide a brief overview of how to process different modalities such as **video, audio, and text**, and to highlight how communication extends beyond words through **facial expressions, tone, and non-verbal cues**. We included **hands-on code** for extracting features from these modalities and demonstrated how multimodal fusion could support data-driven evaluation of interview communication skills by combining facial, acoustic, and textual signals.
+    <!-- Workshop 3: 2020 -->
+    <div class="workshop-card">
+        <div class="workshop-header">
+            <div class="pub-meta-row">
+                <span class="badge-purple">RVCE 2020</span>
+                <span class="caption-sm">R V College of Engineering &bull; Bengaluru, India &bull; 2020</span>
+            </div>
+            <h3 class="workshop-title">Procedure Detection Hands-on Session</h3>
+        </div>
+        <p class="workshop-body">
+            Introduced participants to procedure detection, demonstrating how machine learning and computer vision techniques recognize and model complex activity sequences and procedural steps in real-world activity understanding tasks.
+        </p>
+        <div class="pub-actions">
+            <a href="https://github.com/poorao/procedure-detection-hands-on" target="_blank" rel="noopener noreferrer" class="btn-secondary" style="height: 36px; padding: 6px 14px; font-size: 13px;">
+                View Hands-on Repo &nearr;
+            </a>
+        </div>
+    </div>
 
----
-
-### Virtual Interviewer: Build your own interviewing agent
-
-AMLD 2021, EPFL, Lausanne, Switzerland &bull; April 2021 &bull; [Materials & Repo](https://github.com/poorao/virtual-interviewer-AMLD2021)
-
-This workshop aimed to build a virtual interviewing agent capable of asking **dynamic follow-up questions**. It was conducted in **two parts**: first, we showed how to build a follow-up question generation model using a **pre-trained GPT-2 language model**; second, we demonstrated how to deploy the model as a virtual interviewing agent using **AWS Sumerian**. The session combined model development with practical system deployment and gave participants a hands-on understanding of how conversational agents can support interview scenarios.
-
----
-
-### Procedure Detection Hands-on Session
-
-R V College of Engineering, Bengaluru, India &bull; 2020 &bull; [Materials & Repo](https://github.com/poorao/procedure-detection-hands-on)
-
-This hands-on session introduced participants to procedure detection and helped them understand how machine learning and computer vision techniques can be used to recognize and model activity sequences and procedural steps. It provided a practical overview of the underlying methods and demonstrated how these approaches can be applied to real-world activity understanding tasks.
+</div>

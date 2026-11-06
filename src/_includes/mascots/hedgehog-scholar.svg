@@ -1,0 +1,35 @@
+<svg viewBox="0 0 110 100" fill="none" xmlns="http://www.w3.org/2000/svg" class="ph-mascot-illustration" aria-label="Scholar hedgehog reading research publications">
+  <!-- Spines -->
+  <path d="M20 78C10 72 5 58 6 42C7 22 24 10 45 8C56 7 66 11 75 18L82 14L82 22L90 23L88 32L96 36L91 44L98 52L90 58L95 66L85 71L87 79C77 86 63 89 48 89C36 89 27 84 20 78Z" fill="#b17816" stroke="#23251d" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Body/Face -->
+  <path d="M30 82C44 86 64 83 74 70C80 60 80 46 70 38C60 30 46 32 36 40C25 50 24 70 30 82Z" fill="#faefe0" stroke="#23251d" stroke-width="2.5"/>
+  <!-- Snout -->
+  <path d="M76 44C78 44 80 42 79 40C78 38 76 38 74 40C73 41 74 44 76 44Z" fill="#23251d"/>
+  <!-- Eye -->
+  <circle cx="64" cy="38" r="2.8" fill="#23251d"/>
+  <circle cx="63" cy="37" r="0.8" fill="#ffffff"/>
+  <!-- Eyebrow -->
+  <path d="M60 33C62 32 66 33 68 35" stroke="#23251d" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- Ear -->
+  <path d="M48 29C46 25 50 22 54 24C56 25 56 29 53 31" fill="#f7d6d3" stroke="#23251d" stroke-width="2"/>
+  <!-- Research Paper / Document -->
+  <rect x="42" y="52" width="30" height="34" rx="2" fill="#ffffff" stroke="#23251d" stroke-width="2"/>
+  <!-- Folded corner on paper -->
+  <path d="M64 52L72 60L64 60Z" fill="#e5e7e0" stroke="#23251d" stroke-width="1.5"/>
+  <!-- Paper text lines -->
+  <line x1="47" y1="58" x2="60" y2="58" stroke="#f7a501" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="47" y1="64" x2="68" y2="64" stroke="#9b9c92" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="47" y1="69" x2="66" y2="69" stroke="#9b9c92" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="47" y1="74" x2="68" y2="74" stroke="#9b9c92" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="47" y1="79" x2="58" y2="79" stroke="#9b9c92" stroke-width="1.6" stroke-linecap="round"/>
+  <!-- Magnifying glass -->
+  <circle cx="78" cy="62" r="9" fill="#dceaf6" fill-opacity="0.8" stroke="#23251d" stroke-width="2.2"/>
+  <circle cx="76" cy="60" r="7" fill="none" stroke="#2c84e0" stroke-width="1" stroke-dasharray="2 2"/>
+  <line x1="84" y1="68" x2="94" y2="78" stroke="#23251d" stroke-width="3" stroke-linecap="round"/>
+  <!-- Little paws -->
+  <ellipse cx="42" cy="66" rx="3.5" ry="3" fill="#faefe0" stroke="#23251d" stroke-width="1.8"/>
+  <ellipse cx="85" cy="70" rx="3.5" ry="3" fill="#faefe0" stroke="#23251d" stroke-width="1.8"/>
+  <!-- Feet -->
+  <ellipse cx="36" cy="86" rx="5" ry="3" fill="#faefe0" stroke="#23251d" stroke-width="2"/>
+  <ellipse cx="58" cy="86" rx="5" ry="3" fill="#faefe0" stroke="#23251d" stroke-width="2"/>
+</svg>

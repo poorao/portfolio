@@ -1,6 +1,34 @@
+<p class="body-md">
+    I am a <strong>Postdoctoral Researcher</strong> at <a href="https://www.iiitb.ac.in/" target="_blank" rel="noopener noreferrer">IIIT Bangalore</a>. I recently completed my PhD co-advised by <a href="http://hec.unil.ch/people/mcherubini?dyn_lang=fr" target="_blank" rel="noopener noreferrer">Prof. Mauro Cherubini</a> from the <a href="https://www.unil.ch/index.html" target="_blank" rel="noopener noreferrer">University of Lausanne (UNIL)</a> and <a href="https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi" target="_blank" rel="noopener noreferrer">Prof. Dinesh Babu Jayagopi</a> from IIIT Bangalore.
+</p>
 
-I am a Postdoctoral Researcher at [IIIT Bangalore](https://www.iiitb.ac.in/). I recently completed my PhD co-advised by [Prof. Mauro Cherubini](http://hec.unil.ch/people/mcherubini?dyn_lang=fr) from [UNIL](https://www.unil.ch/index.html) and [Prof. Dinesh Babu Jayagopi](https://www.iiitb.ac.in/faculty/dinesh-babu-jayagopi) from IIIT Bangalore. My research explores the intersection of Human Computer Interaction and Artificial Intelligence, together with insights from psychological theories. I focus on building and evaluating human-centered, responsible AI technologies, with a particular emphasis on automated interview training systems for job seekers. Broadly, I'm interested in Human-centered AI, aiming to enhance individuals' ability to interact with and learn from AI systems, thereby making a tangible impact on them.
+<p class="body-md">
+    My research investigates the intersection of <strong>Human-Computer Interaction (HCI)</strong> and <strong>Artificial Intelligence (AI)</strong>, integrating insights from psychological theories. I specialize in designing and auditing <strong>human-centered, responsible AI technologies</strong>, with particular focus on automated interview training systems for job seekers, algorithmic risk communication, and cultural fairness auditing.
+</p>
 
-I completed my Master's by Research in AI at IIIT Bangalore where my thesis focused on improving and automating asynchronous video interviews using Machine Learning, Natural Language Processing and Generation, Multimodal Processing. My industry background includes research experience at Accenture Technology Labs and HP Inc R&D Labs working on different NLP problems. Prior to my Master's, I worked at Fidelity Investments for 2 years.
+<div class="banner-callout banner-tip-blue">
+    <div class="banner-callout-icon">💡</div>
+    <div class="banner-callout-content">
+        <strong>Research Mission</strong>
+        <p>
+            Bridging psychological theory and machine learning to build AI tools that empower users, enhance personal agency, and hold algorithmic evaluation systems accountable in high-stakes domains like employment and hiring.
+        </p>
+    </div>
+</div>
 
-When not working, I enjoy doing the classical dance form of Kathak and getting to know about zero-waste / sustainable practices.
+<div class="tags-row">
+    <span class="tag-chip">Human-AI Interaction</span>
+    <span class="tag-chip">Responsible AI</span>
+    <span class="tag-chip">Algorithmic Auditing</span>
+    <span class="tag-chip">Interview Systems</span>
+    <span class="tag-chip">Cultural Bias in LLMs</span>
+    <span class="tag-chip">Risk Communication (RiskRAG)</span>
+</div>
+
+<p class="body-md" style="margin-top: 16px;">
+    Prior to my doctoral work, I completed my Master's by Research in AI at IIIT Bangalore focusing on asynchronous video interviews using multimodal processing and NLP. My industry background spans applied research at <strong>Accenture Technology Labs</strong> and <strong>HP Inc R&amp;D Labs</strong>, along with software engineering experience at <strong>Fidelity Investments</strong>.
+</p>
+
+<p class="body-md">
+    Outside the research lab, I practice the Indian classical dance form of <strong>Kathak</strong> and actively explore zero-waste / sustainable living practices.
+</p>
