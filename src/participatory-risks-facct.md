@@ -6,7 +6,6 @@ title: "Robotic Answers: Participatory Identification of Risks in AI-Assisted In
 <main class="main-content">
 <section id="article">
 <div class="card">
-<a href="/" class="back-link">← Back to Portfolio</a>
 <h2 class="card-title">
 “Robotic answers”: Participatory Identification of Risks in AI-Assisted Interview Training by Job Seekers
 </h2>

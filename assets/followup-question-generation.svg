@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 310" width="100%" height="auto">
+  <defs>
+    <linearGradient id="fqBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="fqGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+    <linearGradient id="fqGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#b45309"/>
+    </linearGradient>
+    <linearGradient id="fqGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+    <filter id="fqShadow" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <rect width="760" height="310" rx="16" fill="url(#fqBg)"/>
+
+  <text x="380" y="38" text-anchor="middle" font-family="'Inter', system-ui, sans-serif" font-size="16" font-weight="700" fill="#f8fafc" letter-spacing="-0.01em">
+    Dynamic Follow-Up Question Generation in Asynchronous Interviews
+  </text>
+  <text x="380" y="58" text-anchor="middle" font-family="'Inter', system-ui, sans-serif" font-size="12" fill="#94a3b8">
+    Transforming static one-way video interviews into responsive, conversational evaluations
+  </text>
+
+  <!-- Step 1: Candidate Utterance -->
+  <g transform="translate(40, 85)" filter="url(#fqShadow)">
+    <rect width="195" height="145" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1.5"/>
+    <rect x="14" y="14" width="34" height="34" rx="8" fill="url(#fqGrad1)" opacity="0.2"/>
+    <text x="31" y="36" text-anchor="middle" font-family="'Inter', system-ui, sans-serif" font-size="16">💬</text>
+    <text x="56" y="28" font-family="'Inter', system-ui, sans-serif" font-size="12.5" font-weight="700" fill="#f8fafc">Candidate Speech</text>
+    <text x="56" y="42" font-family="'Inter', system-ui, sans-serif" font-size="10.5" fill="#38bdf8" font-weight="600">Initial Response</text>
+
+    <text x="14" y="72" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#cbd5e1">• Asynchronous video clip</text>
+    <text x="14" y="92" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#cbd5e1">• Automatic Speech-to-Text</text>
+    <text x="14" y="112" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#cbd5e1">• Transcript segmentation</text>
+  </g>
+
+  <!-- Arrow 1 -> 2 -->
+  <path d="M 245 155 L 275 155" stroke="#64748b" stroke-width="2"/>
+  <polygon points="275,155 267,150 267,160" fill="#64748b"/>
+
+  <!-- Step 2: NLP Entity & Semantic Extraction -->
+  <g transform="translate(285, 85)" filter="url(#fqShadow)">
+    <rect width="195" height="145" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1.5"/>
+    <rect x="14" y="14" width="34" height="34" rx="8" fill="url(#fqGrad2)" opacity="0.2"/>
+    <text x="31" y="36" text-anchor="middle" font-family="'Inter', system-ui, sans-serif" font-size="16">🧠</text>
+    <text x="56" y="28" font-family="'Inter', system-ui, sans-serif" font-size="12.5" font-weight="700" fill="#f8fafc">Semantic Parsing</text>
+    <text x="56" y="42" font-family="'Inter', system-ui, sans-serif" font-size="10.5" fill="#fbbf24" font-weight="600">Information Gaps</text>
+
+    <text x="14" y="72" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#cbd5e1">• Key entity extraction</text>
+    <text x="14" y="92" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#cbd5e1">• Incomplete detail detection</text>
+    <text x="14" y="112" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#cbd5e1">• Contextual question template</text>
+  </g>
+
+  <!-- Arrow 2 -> 3 -->
+  <path d="M 490 155 L 520 155" stroke="#64748b" stroke-width="2"/>
+  <polygon points="520,155 512,150 512,160" fill="#64748b"/>
+
+  <!-- Step 3: Targeted Follow-Up -->
+  <g transform="translate(530, 85)" filter="url(#fqShadow)">
+    <rect width="195" height="145" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1.5"/>
+    <rect x="14" y="14" width="34" height="34" rx="8" fill="url(#fqGrad3)" opacity="0.2"/>
+    <text x="31" y="36" text-anchor="middle" font-family="'Inter', system-ui, sans-serif" font-size="16">🎯</text>
+    <text x="56" y="28" font-family="'Inter', system-ui, sans-serif" font-size="12.5" font-weight="700" fill="#f8fafc">Follow-Up Prompt</text>
+    <text x="56" y="42" font-family="'Inter', system-ui, sans-serif" font-size="10.5" fill="#34d399" font-weight="600">Adaptive Dialogue</text>
+
+    <text x="14" y="72" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#cbd5e1">• Dynamic follow-up question</text>
+    <text x="14" y="92" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#cbd5e1">• Deeper probing on skills</text>
+    <text x="14" y="112" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#cbd5e1">• Realistic interview flow</text>
+  </g>
+
+  <!-- Bottom Interactive Note -->
+  <g transform="translate(40, 245)">
+    <rect width="685" height="48" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="342" y="30" text-anchor="middle" font-family="'Inter', system-ui, sans-serif" font-size="11.5" fill="#94a3b8">
+      💡 Proves that automated follow-up question generation improves candidate engagement and depth of evaluation in AVIs.
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" width="100%" height="auto">
+  <defs>
+    <linearGradient id="riskGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="cardGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#4338ca"/>
+    </linearGradient>
+    <linearGradient id="cardGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#0891b2"/>
+    </linearGradient>
+    <linearGradient id="cardGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f43f5e"/>
+      <stop offset="100%" stop-color="#e11d48"/>
+    </linearGradient>
+    <filter id="cardShadow" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <rect width="760" height="340" rx="16" fill="url(#riskGrad)"/>
+
+  <text x="380" y="38" text-anchor="middle" font-family="'Inter', system-ui, sans-serif" font-size="16" font-weight="700" fill="#f8fafc" letter-spacing="-0.01em">
+    The AI Model Risk Catalog: Analyzing Reporting Disconnects
+  </text>
+  <text x="380" y="58" text-anchor="middle" font-family="'Inter', system-ui, sans-serif" font-size="12" fill="#94a3b8">
+    Comparing 460K Hugging Face Model Cards against the MIT Risk Repository &amp; AI Incident Database
+  </text>
+
+  <!-- Column 1: Developer Focus -->
+  <g transform="translate(35, 82)" filter="url(#cardShadow)">
+    <rect width="210" height="155" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1.5"/>
+    <rect x="14" y="14" width="36" height="36" rx="8" fill="url(#cardGrad1)" opacity="0.2"/>
+    <text x="32" y="38" text-anchor="middle" font-family="'Inter', system-ui, sans-serif" font-size="18">💻</text>
+    <text x="58" y="30" font-family="'Inter', system-ui, sans-serif" font-size="12.5" font-weight="700" fill="#f8fafc">460K Model Cards</text>
+    <text x="58" y="44" font-family="'Inter', system-ui, sans-serif" font-size="10.5" fill="#818cf8" font-weight="600">Developer Perspective</text>
+
+    <text x="16" y="74" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#cbd5e1">• Heavy focus on technical bugs</text>
+    <text x="16" y="93" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#cbd5e1">• Algorithmic bias &amp; toxicity</text>
+    <text x="16" y="112" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#cbd5e1">• Only 14% mention any risks</text>
+    <text x="16" y="131" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#cbd5e1">• 96% copy-pasted disclaimers</text>
+  </g>
+
+  <!-- Column 2: Researcher Focus -->
+  <g transform="translate(275, 82)" filter="url(#cardShadow)">
+    <rect width="210" height="155" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1.5"/>
+    <rect x="14" y="14" width="36" height="36" rx="8" fill="url(#cardGrad2)" opacity="0.2"/>
+    <text x="32" y="38" text-anchor="middle" font-family="'Inter', system-ui, sans-serif" font-size="18">📚</text>
+    <text x="58" y="30" font-family="'Inter', system-ui, sans-serif" font-size="12.5" font-weight="700" fill="#f8fafc">MIT Risk Repository</text>
+    <text x="58" y="44" font-family="'Inter', system-ui, sans-serif" font-size="10.5" fill="#22d3ee" font-weight="600">Academic Perspective</text>
+
+    <text x="16" y="74" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#cbd5e1">• Broad societal &amp; ethical impact</text>
+    <text x="16" y="93" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#cbd5e1">• Long-term systemic hazards</text>
+    <text x="16" y="112" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#cbd5e1">• Theoretical risk taxonomies</text>
+    <text x="16" y="131" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#cbd5e1">• Often detached from deployers</text>
+  </g>
+
+  <!-- Column 3: Real-World Incidents (The Blind Spot) -->
+  <g transform="translate(515, 82)" filter="url(#cardShadow)">
+    <rect width="210" height="155" rx="12" fill="#1e293b" stroke="#e11d48" stroke-width="1.5"/>
+    <rect x="14" y="14" width="36" height="36" rx="8" fill="url(#cardGrad3)" opacity="0.2"/>
+    <text x="32" y="38" text-anchor="middle" font-family="'Inter', system-ui, sans-serif" font-size="18">⚠️</text>
+    <text x="58" y="30" font-family="'Inter', system-ui, sans-serif" font-size="12.5" font-weight="700" fill="#f8fafc">AI Incident Database</text>
+    <text x="58" y="44" font-family="'Inter', system-ui, sans-serif" font-size="10.5" fill="#f43f5e" font-weight="600">Real-World Harms</text>
+
+    <text x="16" y="74" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#fda4af" font-weight="600">• Fraud &amp; manipulation</text>
+    <text x="16" y="93" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#fda4af" font-weight="600">• Social engineering &amp; scams</text>
+    <text x="16" y="112" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#fda4af" font-weight="600">• Human-interaction failures</text>
+    <text x="16" y="131" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#cbd5e1">• Disproportionately unaddressed</text>
+  </g>
+
+  <!-- Bottom Synthesis Box -->
+  <g transform="translate(35, 252)">
+    <rect width="690" height="64" rx="10" fill="#0f172a" stroke="#f43f5e" stroke-dasharray="4 4" stroke-width="1.5"/>
+    <text x="24" y="27" font-family="'Inter', system-ui, sans-serif" font-size="11.5" font-weight="700" fill="#fb7185">🚨 CRITICAL REPORTING GAP IDENTIFIED:</text>
+    <text x="24" y="47" font-family="'Inter', system-ui, sans-serif" font-size="11" fill="#cbd5e1">
+      Both developers and researchers systematically overlook <tspan font-weight="700" fill="#ffffff">human-interaction risks</tspan> (such as fraud, manipulation, and overreliance), creating dangerous blind spots in high-stakes deployments like hiring.
+    </text>
+  </g>
+</svg>

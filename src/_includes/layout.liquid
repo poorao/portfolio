@@ -25,9 +25,11 @@
 </head>
 
 <body>
+    {% include "header.liquid" %}
     <div class="site-wrapper">
         <div class="container">
             <div class="layout-grid">
+                {% include "sidebar.liquid" %}
                 {{ content }}
             </div>
         </div>
