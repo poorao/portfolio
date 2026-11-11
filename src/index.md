@@ -17,11 +17,6 @@ description: "Pooja Rao - Postdoctoral Researcher at IIIT Bangalore. PhD in Huma
             </div>
 
             <div class="section-explore-grid">
-                <a href="/research/" class="explore-card">
-                    <span class="explore-title">Research</span>
-                    <span class="explore-desc">Human-centred AI systems, risk reporting, and research practices</span>
-                    <span class="explore-arrow">Explore research &rarr;</span>
-                </a>
                 <a href="/publications/" class="explore-card">
                     <span class="explore-title">Publications</span>
                     <span class="explore-desc">Selected peer-reviewed papers at ACM CHI, FAccT, AIES, IJHCS, and ICMI</span>
